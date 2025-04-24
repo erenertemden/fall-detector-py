@@ -4,7 +4,7 @@ This project implements a fall detection system using Python and a YOLOv8-based 
 
 ## Demo
 
-![Fall Detection Demo](media/output.gif)
+![Fall Detection Demo](assets/output.gif)
 
 ## Features
 
